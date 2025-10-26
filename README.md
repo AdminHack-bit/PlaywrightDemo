@@ -1,5 +1,6 @@
 PlaywrightDemo
 
+(to install it, use git clone)
 
 A Demo for Playwright.
 
